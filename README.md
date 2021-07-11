@@ -12,7 +12,7 @@
 
 ## Pull Requests
 
-[GitHub Pull Request](https://github.com/AbdallahAbuKhurma/api-server/pull/1)
+[GitHub Pull Request](https://github.com/AbdallahAbuKhurma/caps/pull/1)
 
 ## Setup
 
